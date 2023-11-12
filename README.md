@@ -1,4 +1,5 @@
 # CUCUMAT -- Cute CUDA Matrix
+[CUDA+Python练手项目——Cute CUDA Matrix](https://zhuanlan.zhihu.com/p/663371484)  
 This is my private implementation of [cudamat](https://github.com/cudamat/cudamat). Only the matrix operation part of cudamat is implemented. Although the operations implemented have been briefly unit tested, the stability and accuracy of the project as a practice have yet to be tested.
 ## Build
 ```bash

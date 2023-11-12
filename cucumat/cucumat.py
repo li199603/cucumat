@@ -1,7 +1,7 @@
 import numpy as np
 import os
-from .lib_wrap import LibWrap, CMatrix, CuCuMatException
-from typing import Union, Tuple, Literal, Optional
+from .lib_wrap import LibWrap, CMatrix
+from typing import Union, Tuple, Optional
 
 _lib = LibWrap(os.path.join(os.path.dirname(__file__), "build/libcucumat.so"))
 
